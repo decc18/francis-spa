@@ -28,13 +28,14 @@ import { getFirestore, Firestore } from 'firebase/firestore';
 
 // Tu configuración de Firebase
 export const firebaseApp = initializeApp({
-  apiKey: "AIzaSyBKMgPgp3aLijyn3HUjQj_1M1r9uiX2F6Q",
-  authDomain: "cuentas-claras-be6b9.firebaseapp.com",
   databaseURL: "https://cuentas-claras-be6b9-default-rtdb.firebaseio.com",
-  projectId: "cuentas-claras-be6b9",
-  storageBucket: "cuentas-claras-be6b9.appspot.com",
-  messagingSenderId: "424561552217",
-  appId: "1:424561552217:web:c851d8b1b0bfb45c17fa48"
+  
+  apiKey: "AIzaSyAa-JPrdpvPldyGgTuwgHxjbbf9B4QnXvg",
+  authDomain: "francisspa-ab54c.firebaseapp.com",
+  projectId: "francisspa-ab54c",
+  storageBucket: "francisspa-ab54c.appspot.com",
+  messagingSenderId: "469056988793",
+  appId: "1:469056988793:web:5c4ee4f6f6560ed58cd6a8"
 })
 
 // used for the firestore refs
