@@ -29,9 +29,9 @@ export default defineConfig({
     },
 
     manifest: {
-      name: 'cuentas-claras',
-      short_name: 'cuentas-claras',
-      description: 'cuentas-claras',
+      name: 'francis-peluqueria',
+      short_name: 'francis-peluqueria',
+      description: 'francis-peluqueria',
       theme_color: '#ffffff',
       start_url: '.',
       display: 'standalone',
